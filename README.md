@@ -1,5 +1,6 @@
-# Project_A. Automatically Update Files on Google Drive
-## Functionality:
+# Side Projects - Python - Public
+## Project_A. Automatically Update Files on Google Drive
+### Functionality:
 
 1. **Library Imports:**  
 The script begins by importing necessary libraries, including those from the Google API for authentication and file operations.
